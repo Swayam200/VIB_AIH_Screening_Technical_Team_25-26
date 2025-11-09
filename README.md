@@ -59,7 +59,7 @@ Minimum Requirements:
 * Load & clean the Delhi subset
 * Find which pollutant has highest correlation with PM2.5 (or create a ranking)
 * Produce an insight: “Which pollutant influences PM2.5 most?”
-* Optional bonus: simple web dashboard (streamlit / gradio)
+* Optional bonus: simple web dashboard (streamlit / gradio) - *You can provide deployed link in README file*
 
 ---
 

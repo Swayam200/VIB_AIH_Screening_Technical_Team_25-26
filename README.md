@@ -4,7 +4,7 @@
 
 As we are all aware, Delhi has been consistently ranked among the most polluted capital cities in the world.   
 [Source: https://www.iqair.com/in-en/world-most-polluted-cities]  
-![Delhi Pollution](image.png)
+![Delhi Pollution](image.png)  
 PM2.5 and PM10 exposure directly impacts lungs, cognitive performance and long-term public health. As an applied AI club, we want to focus on real-world issues.
 
 This screening task is designed to evaluate if you can:

@@ -1,5 +1,10 @@
 # AI Innovators Hub — Technical Team Screening Task (2025-26)
 
+### Announcements (Updated - 15 Nov)
+- **Deadline extended to 20 November 2025, 11:59 PM (IST)** in view of upcoming examinations. Good Luck
+
+- Only github links are accepted for submissions
+
 ## Why this task exists
 
 As we are all aware, Delhi has been consistently ranked among the most polluted capital cities in the world.   
@@ -82,7 +87,7 @@ If you can't explain it, you will be disqualified.
 
 ## Deliverables (mandatory)
 
-Submit a Google Drive or GitHub link with:
+Submit a GitHub link with:
 
 * your `.ipynb` notebook (Colab preferred)
 * A small README:
@@ -101,7 +106,7 @@ example: `Swayam_AIH_2025_Screening.ipynb`
 
 ## Timeline
 
-**Deadline:** 11:59PM, 18/11/2025 (IST)  
+**Deadline:** 11:59PM, 20/11/2025 (IST)  
 (If you are reading this after this date, you cannot submit.)
 
 
